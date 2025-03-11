@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=auto&text=Hello&desc=I'm%20seulkikim&fontAlign=67&descAlign=78&fontAlignY=30&rotate=19&descAlignY=46"/>
 
 ## 🙌 Introduction
-안녕하세요! 5년차 백엔드 개발자입니다. 🖤
+안녕하세요!🖤
 <br/><br/><br/>
 
 ## ⚡ Skills
